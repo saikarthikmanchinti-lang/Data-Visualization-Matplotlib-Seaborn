@@ -1,0 +1,16 @@
+# ==============================================================================
+# Requirements for Data Visualization Project (Matplotlib & Seaborn)
+# Compatible with Python 3.9+
+# ==============================================================================
+
+# Data analysis and manipulation
+pandas>=2.0.0
+
+# Numerical computing and array operations
+numpy>=1.24.0
+
+# Core 2D plotting library
+matplotlib>=3.7.0
+
+# Statistical data visualization library built on top of Matplotlib
+seaborn>=0.12.0
